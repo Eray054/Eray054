@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Eray
 
-<!--
-**Eray054/Eray054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer • Linux User • High School Student 🇹🇷
 
-Here are some ideas to get you started:
+I enjoy building software from scratch and learning how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on developing **Project Medusa**, a modular smart home automation system written in Python.
+
+---
+
+## 🚀 Current Project
+
+### 🐍 Project Medusa
+
+A modular smart home automation system.
+
+### Features
+
+* 🔐 User Authentication
+* 💡 Smart Lighting System
+* 🚪 Door Management
+* 📷 Camera Management
+* ⚙️ Settings Module
+* 📊 System Status
+
+### Roadmap
+
+* ✅ Modular architecture
+* ✅ Login system
+* ✅ Terminal interface
+* 🔄 Desktop GUI (PySide6)
+* 🔄 Voice Assistant
+* 🔄 ESP32 Integration
+* 🔄 Raspberry Pi Support
+* 🔄 Mobile Application
+
+---
+
+## 🛠️ Technologies
+
+* Python
+* Git
+* Linux (Ubuntu)
+* VS Code
+
+Learning:
+
+* PySide6
+* Object-Oriented Programming
+* Networking
+* IoT
+* Artificial Intelligence
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eray054\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eray054\&layout=compact\&theme=github_dark)
+
+---
+
+## 🎯 2026 Goals
+
+* Finish Project Medusa Desktop Edition
+* Learn PySide6
+* Build an ESP32 smart home network
+* Learn Raspberry Pi
+* Publish Medusa v1.0
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/Eray054
+
+---
+
+> "Keep building. Every project teaches something new."
